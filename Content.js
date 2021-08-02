@@ -21,8 +21,8 @@ html {
   font-family: "Muli", sans-serif;
 }
 .heading-1 {
-  color: #fff;
-  font-size: 40px;
+  color: #5f5f5f;
+  font-size: 30px;
   text-align:center;
 }
 
@@ -59,7 +59,7 @@ ytd-browse {
 #searchText {
   height: 45px !important;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
-  background-color: #fffffff0;
+  background-color: rgb(35 35 35 / 90%);
   border: none;
   border-radius: 2em;
   color: var(--search-box-text);
@@ -71,6 +71,10 @@ ytd-browse {
   padding-inline-start: 32px;
   position: relative;
   width: 100%;
+  transition: all 0.3s ease-in-out;
+}
+#searchText:focus {
+  background-color: #fffffff0;
 }
 :-webkit-any(input, #searchButton) {
   z-index: 2;

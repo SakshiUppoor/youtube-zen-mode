@@ -9,6 +9,13 @@
             "js": [
                 "Content.js"
             ]
+        },
+        {
+            "matches": ["https://www.youtube.com/watch?v=*"],
+            "run_at":"document_end",
+            "js": [
+                "hideRecommendations.js"
+            ]
         }
     ],
     "web_accessible_resources" : ["search.svg"]
