@@ -43,6 +43,8 @@ Chrome extension for YouTube that removes distractions so you can focus on learn
 - Turn on Developer Mode
 - Click on the 'Load Unpacked' button
 - Select the project folder
+
+The Chrome extenion is now activated! Head on over to [YouTube](https://www.youtube.com/) to check it out!
 ## Contributing
 
 Contributions are always welcome!
