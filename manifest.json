@@ -1,0 +1,15 @@
+{
+    "manifest_version":2,
+    "version":"1.0.0",
+    "name": "Youtube Zen",
+    "content_scripts": [
+        {
+            "matches": ["https://www.youtube.com/","https://www.youtube.com/?*"],
+            "run_at":"document_end",
+            "js": [
+                "Content.js"
+            ]
+        }
+    ],
+    "web_accessible_resources" : ["search.svg"]
+}
