@@ -3,6 +3,7 @@
 
 Chrome extension for YouTube that removes distractions so you can focus on learning
 
+[View Demo](https://drive.google.com/file/d/1CphQwX-n39L5GWEBuNJDCXAL6n5P4F7P/view?usp=sharing)
 
 
 ## Features
