@@ -29,7 +29,7 @@ Chrome extension for YouTube that removes distractions so you can focus on learn
 
 - Clone the project
     ```bash
-    git clone https://github.com/SakshiUppoor/youtube-zen.git
+    git clone https://github.com/SakshiUppoor/youtube-zen-mode.git
     ```
 
 - Go to the project directory
